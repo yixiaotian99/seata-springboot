@@ -1,4 +1,4 @@
-package com.xiao.storage.service;
+package com.xiao.storage;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
